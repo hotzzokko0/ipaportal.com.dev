@@ -197,7 +197,7 @@ if (G5_IS_MOBILE) {
                                     </ul>
                                 </div>
                             </li>
-                            <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=domestic">국내출원@</a></li>
+                            <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=domestic">국내출원@@@@@@@@</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=overseas">해외출원</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=trans">특허기술번역</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=drawing">특허도면서비스</a></li>
