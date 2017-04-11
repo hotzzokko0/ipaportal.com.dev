@@ -197,13 +197,13 @@ if (G5_IS_MOBILE) {
                                     </ul>
                                 </div>
                             </li>
-                            <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=domestic">국내출원@@@@@@@@</a></li>
+                            <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=domestic">국내출원</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=overseas">해외출원</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=trans">특허기술번역</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=drawing">특허도면서비스</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=search">특허검색서비스</a></li>
                             <li class="has-child">
-                                <a href="javascript:void(0)">정보</a>
+                                <a href="javascript:void(0)">링크</a>
                                 <div class="dropdown-inner">
                                     <ul class="dropdown-items">
                                         <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=book">도서</a></li>

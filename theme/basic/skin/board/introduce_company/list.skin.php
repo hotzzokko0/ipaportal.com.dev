@@ -213,9 +213,38 @@ add_javascript('<script src="' . $board_skin_url . '/js/layer.js"></script>', 0)
                                                                         }
                                                                         ?>>전문가정보</a>
                                         </li>
+<<<<<<< .mine
+                                        <?php } ?>
+                                    </ul>
+=======
                                         <?php } ?>
                                     </ul>
                                 </ul>
+                            </div>
+                            <div class="text_area col-md-2">
+                                <ul>
+                                    <?php if ($list[$i]['wr_6']) { ?>
+                                        <li>특허출원: <?= $list[$i]['wr_6'] ?>원</li>
+                                    <?php } ?>
+                                    <?php if ($list[$i]['wr_7']) { ?>
+                                        <li>상표출원: <?= $list[$i]['wr_7'] ?>원</li>
+                                    <?php } ?>
+                                </ul>
+                                <br/>
+                                <?php if ($list[$i]['wr_type'] !== 'F') { ?>
+                                <ul>
+                                    <li class="btn btn-default"><a href="#" <?php
+                                                                    if ($is_member) {
+                                                                        $objId = $bo_table . $list[$i]['wr_id'];
+                                                                        echo 'onclick="openLayer(\'n\', \'' . $objId . '\'); return false;"';
+                                                                    } else {
+                                                                        echo 'onclick="openLayer(\'l\', \'outlogin\'); return false;"';
+                                                                    }
+                                                                   ?>>상세정보보기</a>
+                                    </li>
+>>>>>>> .r55
+                                </ul>
+<<<<<<< .mine
                             </div>
                             <div class="text_area col-md-2">
                                 <ul>
@@ -268,6 +297,37 @@ add_javascript('<script src="' . $board_skin_url . '/js/layer.js"></script>', 0)
                                         <li class="btn btn-default"><a <?= $hrefEmail ?> <?= $onClick ?>><?= $strEmail ?></a></li>
                                     <?php } ?>
                                 </ul>
+=======
+                                <?php } ?>
+                            </div>
+                            <div class="text_area col-md-2">
+                                <ul>
+                                    <?php if ($tel = $list[$i]['wr_4']) {
+                                        $strTel  = '전화걸기';
+                                        $hrefTel = "href='#'";
+                                        $onClick = 'onclick="openLayer(\'l\', \'outlogin\'); return false;"';
+                                        if ($is_member || $is_admin) {
+                                            $strTel  = $tel;
+                                            $hrefTel = "href='tel:{$tel}'";
+                                            $onClick = '';
+                                        }
+                                        ?>
+                                        <li class="btn btn-default"><a <?= $hrefTel ?> <?= $onClick ?>><?= $strTel ?></a></li>
+                                    <?php } ?>
+                                    <?php if ($email = $list[$i]['wr_email']) {
+                                        $strEmail  = '이메일보내기';
+                                        $hrefEmail = "href='{$login_url}'";
+                                        $onClick = 'onclick="openLayer(\'l\', \'outlogin\'); return false;"';
+                                        if ($is_member || $is_admin) {
+                                            $strEmail  = $email;
+                                            $hrefEmail = "href='mailto:{$email}'";
+                                            $onClick = '';
+                                        }
+                                        ?>
+                                        <li class="btn btn-default"><a <?= $hrefEmail ?> <?= $onClick ?>><?= $strEmail ?></a></li>
+                                    <?php } ?>
+                                </ul>
+>>>>>>> .r55
                             </div>
                         </td>
                     </tr>
@@ -277,6 +337,9 @@ add_javascript('<script src="' . $board_skin_url . '/js/layer.js"></script>', 0)
                 </tbody>
             </table>
         </div>
+
+        <!-- 페이지 -->
+        <?php echo $write_pages; ?>
 
         <?php if ($list_href || $is_checkbox || $write_href) { ?>
             <div class="bo_fx">
@@ -410,8 +473,6 @@ if ($is_member || $is_admin) {
     </noscript>
 <?php } ?>
 
-<!-- 페이지 -->
-<?php echo $write_pages; ?>
 
 <!-- 게시판 검색 시작 { -->
 <?php /*?><fieldset id="bo_sch">
