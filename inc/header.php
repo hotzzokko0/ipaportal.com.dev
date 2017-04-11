@@ -188,7 +188,7 @@
 									</div>
 								</li>-->                                
                                 <li><a href="<?php echo G5_URL ?>/index.php">홈</a></li>
-                                <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=news">뉴스!!!</a></li>
+                                <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=news">뉴스!!!!!!!!!!!</a></li>
 								<li class="has-child">
 									<a href="javascript:void(0)">구인구직 
 									<div class="dropdown-inner">
