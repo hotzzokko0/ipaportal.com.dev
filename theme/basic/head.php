@@ -203,7 +203,7 @@ if (G5_IS_MOBILE) {
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=drawing">특허도면서비스</a></li>
                             <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=search">특허검색서비스</a></li>
                             <li class="has-child">
-                                <a href="javascript:void(0)">링크</a>
+                                <a href="javascript:void(0)">링크!!!!!!!!!!!</a>
                                 <div class="dropdown-inner">
                                     <ul class="dropdown-items">
                                         <li><a href="<?php echo G5_URL ?>/bbs/board.php?bo_table=book">도서</a></li>
