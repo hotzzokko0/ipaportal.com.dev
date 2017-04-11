@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+html {
+	overflow: -moz-scrollbars-vertical; overflow-y: scroll;
+}
+
+html,body {
+	height: 100%; width: 100%;
+}
+
+td,select,body {
+	font: 9pt tahoma
+}
+
+form {
+	margin: 0; padding: 0
+}
+
+a,a:link {
+	text-decoration: none; color: #000
+}
+
+table.list td {
+	border-bottom: 1px #efefef solid
+}
+
+h1 {
+	font-size: 12pt; border-bottom: 1px #efefef;
+}
+
+body {
+	border: 0; margin: 0; padding: 0
+}
+
+body,h1,h2,h3,h4,th,td,input,option,button,select,pre {
+	font-family: 'Segoe UI', Tahoma, AppleGothic, Verdana, Arial, Sans-Serif; font-size: 9pt
+}
+
+table.rows {
+	width: 100%
+}
+
+table.rows thead th {
+	background-color: #ddd; padding: 4px; font-weight: normal
+}
+
+table.rows tbody td {
+	border-bottom: 1px #efefef solid
+}
+
+div#tbar{background-color:#000;padding:4px;color:white}
+div#tbar a{color:#fff}
+
+p.description{line-height:180%;padding:10px}

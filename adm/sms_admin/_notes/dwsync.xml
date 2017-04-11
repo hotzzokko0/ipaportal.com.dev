@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ajax.hp_chk.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="ajax.sms_write_form.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="ajax.sms_write_group.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="ajax.sms_write_level.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="ajax.sms_write_person.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="config.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="config_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="emoticon_move.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="emoticon_move_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_group.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_group_move.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_group_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_list.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_multi_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015210000000" remote="131291015210000000" Dst="0" />
+<file name="form_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="form_write.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="history_list.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="history_num.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="history_send.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="history_view.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="install.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="member_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="member_update_run.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="number_move_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_file.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_file_download.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_file_upload.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_move.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_multi_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_book_write.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_group.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015220000000" remote="131291015220000000" Dst="0" />
+<file name="num_group_move.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="num_group_update.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms5.sql" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms_ing.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms_write.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms_write_form.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms_write_overlap_check.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="sms_write_send.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+<file name="_common.php" server="121.78.54.194:1022//home/pisneth/webroot/site.pisnet.kr/ipaportal.com/" local="131291015230000000" remote="131291015230000000" Dst="0" />
+</dwsync>

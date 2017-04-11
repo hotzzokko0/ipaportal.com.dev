@@ -1,0 +1,25 @@
+#latest {
+    border: 1px solid #e8e7e7;
+    clear: both;
+    float: left;
+    height: 99px;
+    padding: 19px;
+    width: 247px;
+}
+#latest dt.latestblue {
+    height: 15px;
+    margin-bottom: 22px;
+    margin-top: 0;
+    padding-left: 0;
+    width: 100%;
+}
+#latest dd {
+    background: url("dot.gif") no-repeat scroll 2px 6px rgba(0, 0, 0, 0);
+    color: #7b7979;
+    font-size: 12px;
+    padding: 0 0 11px 9px;
+}
+#latest dd a {
+    color: #7b7979;
+    font-size: 12px;
+}
